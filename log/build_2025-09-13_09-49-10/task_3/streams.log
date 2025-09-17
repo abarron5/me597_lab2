@@ -1,0 +1,22 @@
+[0.581s] Invoking command in '/home/abarron/lab2_ws/04/task_3': PYTHONPATH=/home/abarron/lab2_ws/build/task_3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abarron/lab2_ws/install/task_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task_3 build --build-base /home/abarron/lab2_ws/build/task_3/build install --record /home/abarron/lab2_ws/build/task_3/install.log --single-version-externally-managed install_data
+[0.735s] running egg_info
+[0.735s] writing ../../build/task_3/task_3.egg-info/PKG-INFO
+[0.736s] writing dependency_links to ../../build/task_3/task_3.egg-info/dependency_links.txt
+[0.736s] writing entry points to ../../build/task_3/task_3.egg-info/entry_points.txt
+[0.736s] writing requirements to ../../build/task_3/task_3.egg-info/requires.txt
+[0.736s] writing top-level names to ../../build/task_3/task_3.egg-info/top_level.txt
+[0.738s] reading manifest file '../../build/task_3/task_3.egg-info/SOURCES.txt'
+[0.738s] adding license file 'LICENSE'
+[0.738s] writing manifest file '../../build/task_3/task_3.egg-info/SOURCES.txt'
+[0.738s] running build
+[0.738s] running build_py
+[0.739s] running install
+[0.739s] running install_lib
+[0.740s] running install_data
+[0.740s] running install_egg_info
+[0.741s] removing '/home/abarron/lab2_ws/install/task_3/lib/python3.10/site-packages/task_3-0.0.0-py3.10.egg-info' (and everything under it)
+[0.742s] Copying ../../build/task_3/task_3.egg-info to /home/abarron/lab2_ws/install/task_3/lib/python3.10/site-packages/task_3-0.0.0-py3.10.egg-info
+[0.743s] running install_scripts
+[0.757s] Installing pid_speed_controller script to /home/abarron/lab2_ws/install/task_3/lib/task_3
+[0.757s] writing list of installed files to '/home/abarron/lab2_ws/build/task_3/install.log'
+[0.777s] Invoked command in '/home/abarron/lab2_ws/04/task_3' returned '0': PYTHONPATH=/home/abarron/lab2_ws/build/task_3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/abarron/lab2_ws/install/task_3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/task_3 build --build-base /home/abarron/lab2_ws/build/task_3/build install --record /home/abarron/lab2_ws/build/task_3/install.log --single-version-externally-managed install_data
